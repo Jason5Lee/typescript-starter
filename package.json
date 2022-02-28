@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "init": "npm install \"lodash\" --save && npm install \"@types/concurrently\" \"@types/eslint\" \"@types/jest\" \"@types/lodash\" \"@types/node\" \"@typescript-eslint/eslint-plugin\" \"@typescript-eslint/parser\" \"concurrently\" \"eslint\" \"jest\" \"nodemon\" \"ts-jest\" \"typescript\" --save-dev",
+        "init": "npm install \"@types/eslint\" \"@types/jest\" \"@types/node\" \"@typescript-eslint/eslint-plugin\" \"@typescript-eslint/parser\" \"concurrently\" \"eslint\" \"jest\" \"nodemon\" \"ts-jest\" \"typescript\" --save-dev",
         "build": "npm run build-ts && npm run lint",
         "build-ts": "tsc",
         "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
