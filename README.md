@@ -4,4 +4,4 @@ Based on [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeSc
 
 Edit `package.json` to add your information, then run `yarn install` to initialize.
 
-For using npm as package manager, check the `npm` branch.
+This template uses Yarn's [zero-install](https://yarnpkg.com/features/zero-installs) feature.
