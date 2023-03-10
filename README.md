@@ -1,3 +1,5 @@
+## NOTE: This project has been moved to [Jason5Lee/ts-starter](https://github.com/Jason5Lee/ts-starter).
+
 # TypeScript Starter Template
 
 Based on [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter).
